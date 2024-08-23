@@ -8,4 +8,3 @@ public:
 
   int getNLados() { return nLados; }
 };
-
