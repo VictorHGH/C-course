@@ -1,7 +1,6 @@
 // Sobrecarga de métodos
 
 #include "Persona.cpp"
-#include <iostream>
 
 using namespace std;
 
